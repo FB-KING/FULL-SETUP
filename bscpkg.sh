@@ -108,7 +108,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'MAHADI-143' |lolcat
+figlet -f slant 'FB-KING-CYBER' |lolcat
 echo
 echo
 echo 
